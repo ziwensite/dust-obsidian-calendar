@@ -1,3 +1,4 @@
+### 作者很久不更新了，因为2025年开始，节假日不自动更新，FORK 源码过来，自己修改，致敬原作者
 <h1 align="center">Dust Calendar</h1>
 
 <p align="center">
